@@ -371,7 +371,7 @@ overflow: hidden;
 }
 .service-box{
     background-color: var(--main-color);
-    height: 350px;
+    height: 370px;
     border-radius: 3rem;
     border: 5px solid transparent;
     cursor: pointer;
@@ -653,4 +653,5 @@ color: white;
         grid-template-columns: repeat(1,1fr);
     }
 }
+
 
